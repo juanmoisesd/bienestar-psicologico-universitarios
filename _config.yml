@@ -1,0 +1,18 @@
+title: "Psychological Wellbeing in University Students Dashboard"
+description: "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO"
+author: "Juan Moisés de la Serna Tuya"
+url: "https://juanmoisesd.github.io"
+baseurl: "/bienestar-psicologico-universitarios"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+social:
+  name: Juan Moisés de la Serna Tuya
+  links:
+    - https://orcid.org/0000-0002-8401-8018
+    - https://juanmoisesdelaserna.es
+    - https://github.com/juanmoisesd
+doi: 10.7910/DVN/EZP0YO
+show_excerpts: true

@@ -1,0 +1,40 @@
+{
+  "title": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
+  "description": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "burnout",
+    "dashboard",
+    "mental-health",
+    "open-data",
+    "psychology",
+    "university",
+    "wellbeing",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/bienestar-psicologico-universitarios",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,19 +1,49 @@
 {
-  "title": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "bienestar-psicologico-universitarios",
   "description": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "keywords": "burnout, dashboard, mental-health, open-data, psychology, university, wellbeing",
-  "author": "Juan Moisés de la Serna Tuya",
-  "orcid": "https://orcid.org/0000-0002-8401-8018",
-  "canonical": "https://juanmoisesd.github.io/bienestar-psicologico-universitarios/",
-  "og:title": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "og:description": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "og:url": "https://juanmoisesd.github.io/bienestar-psicologico-universitarios/",
-  "og:type": "dataset",
-  "twitter:card": "summary",
-  "twitter:title": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "twitter:description": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "schema_type": "Dataset",
-  "license": "CC0-1.0",
-  "datePublished": "2026-03-20",
-  "language": "es, en"
+  "url": "https://github.com/juanmoisesd/bienestar-psicologico-universitarios",
+  "sameAs": [
+    "https://github.com/juanmoisesd/bienestar-psicologico-universitarios",
+    "https://juanmoisesd.github.io/bienestar-psicologico-universitarios/"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "burnout",
+    "dashboard",
+    "mental-health",
+    "open-data",
+    "psychology",
+    "university",
+    "wellbeing"
+  ],
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "identifier": "https://orcid.org/0000-0002-8401-8018",
+    "sameAs": [
+      "https://orcid.org/0000-0002-8401-8018",
+      "https://www.linkedin.com/in/juanmoisesdelaserna/",
+      "https://www.scopus.com/authid/detail.uri?authorId=26632846700",
+      "https://www.webofscience.com/wos/author/record/M-8296-2019",
+      "https://www.researchgate.net/profile/Juan_De_La_Serna_Tuya",
+      "https://github.com/juanmoisesd"
+    ],
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "datePublished": "2025",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "version": "1.0.0"
 }

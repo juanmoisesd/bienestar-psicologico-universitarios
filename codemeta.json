@@ -1,14 +1,18 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Psychological Wellbeing in University Students Dashboard",
+  "@type": "SoftwareSourceCode",
+  "name": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
   "description": "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO",
-  "identifier": "10.7910/DVN/EZP0YO",
-  "url": "https://doi.org/10.7910/DVN/EZP0YO",
+  "url": "https://github.com/juanmoisesd/bienestar-psicologico-universitarios",
+  "codeRepository": "https://github.com/juanmoisesd/bienestar-psicologico-universitarios",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
       "@id": "https://orcid.org/0000-0002-8401-8018",
       "affiliation": {
@@ -18,18 +22,25 @@
       "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "wellbeing",
-    "psychology",
-    "university",
     "burnout",
     "dashboard",
+    "mental-health",
     "open-data",
-    "mental-health"
+    "psychology",
+    "university",
+    "wellbeing"
   ],
-  "datePublished": "2026-03-20",
-  "version": "1.0",
-  "programmingLanguage": "Python",
-  "softwareVersion": "1.0"
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }

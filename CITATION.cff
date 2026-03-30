@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO"
+abstract: "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/bienestar-psicologico-universitarios"
 url: "https://juanmoisesd.github.io/bienestar-psicologico-universitarios/"
-abstract: "Interactive dashboard: Psychological wellbeing in researchers and university students (2019-2024). DOI: 10.7910/DVN/EZP0YO"
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
